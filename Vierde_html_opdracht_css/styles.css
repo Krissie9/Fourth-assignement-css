@@ -1,0 +1,27 @@
+.black-1 {
+    background-color:black;
+}
+
+.header {
+    color:red;
+}
+
+.article {
+    color:white;
+}
+
+.black-1 {
+    border:5px solid orange;
+}
+
+.lijst {
+    font: normal 12px Arial, helvetica, sans-serif;
+}
+
+.black-1 {
+    font: normal 15px courier, monospace;
+}
+
+.lijst {
+    letter-spacing: 3px;
+}
